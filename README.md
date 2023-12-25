@@ -9,6 +9,8 @@ The brand color of L Pay:
    ```
 ## Palette
 
+L Pay color Palette:
+
 <table align="center">
    <tr>
       <td>
